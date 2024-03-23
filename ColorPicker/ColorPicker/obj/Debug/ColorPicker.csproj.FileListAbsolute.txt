@@ -1,0 +1,12 @@
+A:\Programacao\C#\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+A:\Programacao\C#\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+A:\Programacao\C#\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.AssemblyReference.cache
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+A:\Programacao\C#\ColorPicker\ColorPicker\bin\Debug\Guna.UI2.dll
+A:\Programacao\C#\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CopyComplete
